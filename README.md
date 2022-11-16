@@ -1,6 +1,6 @@
 # Open Source in Finance Forum 2022 - New York, NY
 
-## [Loosely Coupled - Micro-Frontends And Capital One’s Contact Centers](https://youtu.be/rmwqlegvYXY)
+## Loosely Coupled - Micro-Frontends And Capital One’s Contact Centers
 
 ### Steve Husak & Noah Mandelbaum
 
